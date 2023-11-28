@@ -1,5 +1,5 @@
 import { Watch } from "react-loader-spinner";
-import Form from "./Form";
+
 export default function Cities() {
   return (
     <Watch
